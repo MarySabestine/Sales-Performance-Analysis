@@ -3,7 +3,7 @@ This Project shows my ability to analyze data in CSV format, thereafter using Po
 
 ![Sales-Analysis](https://github.com/MarySabestine/Sales-Performance-Analysis/blob/main/sales-Analysis.jpg)
 
-# Introduction
+# Introduction.
 This is a report on the sales performance of a manufacturing company. The analysis was done by gathering data specific to the company sales in CSV format. These tables "customers table, employees table, product table, order_details table, shippers, categories table, and order table" were imported into PowerBI. To prepare the data for analysis, I used the PowerQuery tool to transform it before carrying out the actual analysis.
 
 Disclaimer This is not a real company as we know that adventure works DW database is compiled by Microsoft for learning purposes.
